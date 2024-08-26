@@ -1,0 +1,17 @@
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.csproj.AssemblyReference.cache
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.AssemblyInfoInputs.cache
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.AssemblyInfo.cs
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.csproj.CoreCompileInputs.cache
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Infra.deps.json
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Infra.runtimeconfig.json
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Infra.dll
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Infra.pdb
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Model.dll
+C:\Eleve.elas\School\School.Infra\bin\Debug\net8.0\School.Model.pdb
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.I.08A2A198.Up2Date
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.dll
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\refint\School.Infra.dll
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.pdb
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\School.Infra.genruntimeconfig.cache
+C:\Eleve.elas\School\School.Infra\obj\Debug\net8.0\ref\School.Infra.dll

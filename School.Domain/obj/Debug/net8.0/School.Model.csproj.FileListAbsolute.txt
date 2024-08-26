@@ -1,0 +1,13 @@
+C:\Eleve.elas\School\School.Domain\bin\Debug\net8.0\School.Model.deps.json
+C:\Eleve.elas\School\School.Domain\bin\Debug\net8.0\School.Model.dll
+C:\Eleve.elas\School\School.Domain\bin\Debug\net8.0\School.Model.pdb
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.AssemblyInfoInputs.cache
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.AssemblyInfo.cs
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.csproj.CoreCompileInputs.cache
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.dll
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\refint\School.Model.dll
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.pdb
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\ref\School.Model.dll
+C:\Eleve.elas\School\School.Domain\bin\Debug\net8.0\School.Model.runtimeconfig.json
+C:\Eleve.elas\School\School.Domain\obj\Debug\net8.0\School.Model.genruntimeconfig.cache
